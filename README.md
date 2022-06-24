@@ -18,16 +18,12 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arbertu474&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=arbertu474&show_icons=true&theme=radical"> 
+<img align="left" width="60%" src="https://github-readme-stats.vercel.app/api?username=arbertu474&show_icons=true&theme=radical"> 
 
 <!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arbertu474&layout=compact)](https://github.com/anuraghazra/github-readme-stats">  -->
-
-
 
 <h3>Connect with me:</h3>
 <p align="left">
 <a href="your link" target="blank"><img align="center" src="https://amazing-flan-033663.netlify.app/mail.svg" alt="" height="35" width="35"  /></a>
-<a href="https://wa.me/+355 676641808" target="blank"><img align="center" src="https://amazing-flan-033663.netlify.app/whatsapp.svg" alt="" height="29" width="29" style="margin-left:100"/></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+<a href="https://wa.me/+355 676641808" target="blank"><img align="center" src="https://amazing-flan-033663.netlify.app/whatsapp.svg" alt="" height="29" width="29" style="margin-left: 6px"/></a>
 </p>
